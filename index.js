@@ -456,11 +456,11 @@ function renderContainer(element) {
               }).join('')
             }
           </div>
-          <a href="./texto_curatorial.html" class="link-texto-curatorial">TEXTO CURATORIAL</a>
+          <a href="./nativos_virreales.html" class="link-texto-curatorial">Nativos Virreales</a>
         </div>
         <div class="img-fondo-mobile">
           <div class="container-boton-texto">
-            <a href="./texto_curatorial.html">Texto curatorial</a>
+            <a href="./nativos_virreales.html">Nativos Virreales</a>
             <img src="./assets/Vector23.png" />
           </div>
           <div id="container-info" >

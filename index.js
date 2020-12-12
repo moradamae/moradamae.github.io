@@ -114,44 +114,52 @@ const INFO_MAES = [
     id: 5,
     nombre: `MARIELA FARINA`,
     imagen: ``, 
-    video: `video`,
-    titulo: `Titulo de la obra Mariela`,
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-            specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-            essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: `https://www.youtube.com/embed/dfVoTFT9pgM`,
+    titulo: `Escuchando la tierra`,
+    texto: `El encierro nos permite pensar en los otros y nosotros, en el exterior y en el interior
+    como espacios de exposición y de resguardo respectivamente. Entre ambos hay un
+    punto donde se cambia de dimensión.
+    ¿Cómo puedo dar cuenta de ese umbral de percepciones entre lo que sucede adentro
+    y lo que sucede afuera sin salir?
+    El paisaje no urbano, el paisaje natural, es un registro que me retorna vivencias de la
+    infancia. En este tiempo de cuarentena ese paisaje natural es mi patio. Tiene hoy un
+    valor semejante a aquel paisaje que añoro. Desde este lugar propongo trasvasar el
+    umbral de estos espacios.
+    Un espacio que media y que es un espacio membrana entre el adentro y el afuera,
+    afuera de la casa adentro del terreno. Un interior más peligroso que el exterior para el
+    contagio. Un tiempo en el que se rompe una literalidad, se rompen lógicas.
+    Registro características que podemos percibir y que son propias del suelo o de la tierra
+    del patio, como humedad y temperatura. Para luego convertir o traducir esa
+    información en una nueva percepción sensible en el interior de la casa en forma de
+    sonido. El sonido atraviesa todas estas dimensiones.
+    Realicé varias experiencias. Una de las primeras es la grabación de la humedad en el
+    suelo mediante sensores caseros. Utilicé una placa Esp32 para la lectura, y por medio
+    del protocolo OSC vinculé esos datos con Pure Data. Ese dato se usa como frecuencia
+    portadora y moduladora, para generar una síntesis por frecuencia modulada.`
   },
   {
     right: false,
     id: 6,
     nombre: 'CARMEN TORRERI',
-    imagen: '',
-    video: 'video',
+    imagen: 'Guerra de sonidos',
+    video: 'https://www.youtube.com/embed/eoHd1r7QUoE',
     titulo: 'Titulo de la obra Carmen',
-    texto:  `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-    essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    texto:  `“Guerra de sonidos” es prueba y error. El diálogo entre lo aparentemente antagónico
+    pero complementario, que pone en relación esos dos mundos; el de la pantalla y el
+    de los muñecos de plástico.
+    Es sólo un juego. Sólo y tan importante, como cualquier otro juego. El espacio lúdico
+    es donde los sonidos perduran en la memoria, así como los olores y las
+    sensaciones. Sin embargo, porque ningún juego es inocente, estos soldaditos están
+    yuxtapuestos con monedas.
+    Los soldaditos de plástico aparecieron por primera vez luego de la Segunda Guerra
+    Mundial en los años ‘50 en Estados Unidos y Europa, para extenderse por todo el
+    mundo, siendo bastante populares. Justamente su material, el plástico, permitió
+    hacerlos más accesibles que los juguetes de plomo a los cuales sólo podían
+    acceder las infancias de familias más acomodadas.
+    La moneda como objeto en sí mismo, ya no posee valor; pero simbólicamente es
+    motivo de cada guerra, de cada batalla por el poder.
+    En un sistema que define cada uno de nuestros espacios, inclusive los más íntimos;
+    en este juego como en todos los juegos, está el deseo de tirarlo abajo todo.`
   },
   {
     right: false,
@@ -268,22 +276,22 @@ const INFO_MAES = [
     id: 12,
     nombre: 'GUILLERMO MIOTTI',
     imagen: '',
-    video: 'video',
-    titulo: 'Titulo de la obra Guillermo',
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-    essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: 'https://www.youtube.com/embed/3biJmFqrRBA',
+    titulo: 'Jauleria',
+    texto: `Para este proyecto me interese en investigar a la concepción de laberinto como espacio. Espacio de claustrofobia, de prisión, pero también de descubrimiento de aprendizaje.
+    Quise preguntarme y reflexionar sobre el individuo ante el dilema a resolver, desde la percepción subjetiva frente a un laberinto.
+    ¿Uno es un prisionero o un explorador? ¿Quizás las dos?
+    El prisionero explora, busca la manera, el camino para escapar de su jaula laberíntica, el explorador es prisionero de su propia curiosidad por el descubrimiento, por saber que se esconde en cada rincón, ambas posturas se enfrentan, pero también se complementan y dialogan entre sí.
+    Luego de terminado el recorrido uno puede darse cuenta, descubrirse, si fue un prisionero o un explorador, uno u ambos. en cualquier caso, la liberación o el conocimiento, modifica al individuo cambiándolo para siempre.
+    
+    Por esto me propongo generar un espacio virtual donde el espectador será la incógnita y la respuesta a la vez dentro de este entorno.
+    Como referencia me inspire e investigue en la lectura de los cuentos de José Luis Borges, “El jardín de los senderos que se bifurcan” y “La casa de Asterión”. Además, aplique mis experiencias obtenidas sobre el videojuego Portal, que consiste en un espacio virtual con portales dimensionales que nos llevan de un lugar a otro en forma de teletransportación. La idea de la de encontrar mecanismos en forma de puzles/desafíos para encontrar la salida dando también la posibilidad de la exploración del entorno y el descubrimiento de diversas obras o alegorías sobre obras artísticas que se esconden en él. 
+    La premisa de investigación que me gustaría desarrollar es idea de una Jaula / Laberinto, que puede estar inmerso en el espacio de una gran galería artística, donde las pautas son, cuando nos encontramos dentro, las de decidir si optamos por la exploración o por encontrar la forma de escapar de allí, mientras tenemos las chances de observar diversas obras en forma de sonidos, luz, video y formas físicas que se nos revelan durante el camino. 
+    Todo este recorrido propuesto será en tiempo real y sobre plataforma web en principio, pensada también en un futuro, para plataformas de ordenadores de escritorio, dispositivos móviles y sistemas de realidad aumentada, que pueden estar también situadas en espacios reales, proponiendo al espectador, convertido en protagonista, faces y objetivos donde el laberinto se transforma en una obra y muchas obras a la vez.
+    En este paseo que les propongo, encontraran en las paredes exteriores murales de diversos artistas del activismo feminista, social y político como Barbara Kruger, Jenny Holzer, Bansky y el Fine Acts Collective. Dentro del laberinto, siendo a la vez galería, podremos descubrir entre sus recovecos obras de los artistas Judy Chicago, Dan Flavin, Aram Bartholl, Damien Hirst, Juan Miceli, una alegoría a mi proyecto Eje Tiempo y finalmente, un mensaje hecho palabra fisica que marco la cursada MAE en este inolvidable año 2020.
+    Disfruten el paseo.
+    <br>
+    <a href="https://moradamae.github.io/jauleria_guille_miotti/">IR AL LABERINTO</a>`
   },
   {
     right: false,

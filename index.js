@@ -141,9 +141,9 @@ const INFO_MAES = [
     right: false,
     id: 6,
     nombre: 'CARMEN TORRERI',
-    imagen: 'Guerra de sonidos',
+    imagen: '',
     video: 'https://www.youtube.com/embed/eoHd1r7QUoE',
-    titulo: 'Titulo de la obra Carmen',
+    titulo: 'Guerra de sonidos',
     texto:  `“Guerra de sonidos” es prueba y error. El diálogo entre lo aparentemente antagónico
     pero complementario, que pone en relación esos dos mundos; el de la pantalla y el
     de los muñecos de plástico.
@@ -220,7 +220,7 @@ const INFO_MAES = [
   {
     right: false,
     id: 9,
-    nombre: 'OSCAR YAUQUEN',
+    nombre: 'OSCAR LAUQUEN',
     imagen: '',
     video: 'video',
     titulo: 'Titulo de la obra Oscar',
@@ -264,7 +264,7 @@ const INFO_MAES = [
   {
     right: false,
     id: 11,
-    nombre: 'JUAN MARCELO',
+    nombre: 'JUAN MARCELO ARIAS',
     imagen: '',
     video: 'video',
     titulo: 'Titulo de la obra Juan',
@@ -308,7 +308,7 @@ const INFO_MAES = [
   {
     right: false,
     id: 13,
-    nombre: 'MANUEL VELASQUEZ',
+    nombre: 'MANUEL VELÁSQUEZ',
     imagen: '',
     video: 'video',
     titulo: 'Titulo de la obra Manuel',
@@ -330,7 +330,7 @@ const INFO_MAES = [
   {
     right: true,
     id: 14,
-    nombre: 'AUSEL MUÑOS',
+    nombre: 'AUSEL MUÑOZ',
     imagen: '',
     video: 'video',
     titulo: 'Titulo de la obra Ausel',
@@ -352,7 +352,7 @@ const INFO_MAES = [
   {
     right: true,
     id: 15,
-    nombre: `FRANCCESCA CANTORE`,
+    nombre: `FRANCESCA CANTORE`,
     imagen: ``, 
     video: `video`,
     titulo: `Titulo de la obra Franccesca`,

@@ -166,22 +166,34 @@ const INFO_MAES = [
     id: 7,
     nombre: 'MARTIN PARDO',
     imagen: '',
-    video: 'video',
-    titulo: 'Titulo de la obra Martin',
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-            specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-            essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: 'https://www.youtube.com/embed/QprykWVJA0c',
+    titulo: 'Máquina',
+    texto: `Esta máquina permite detectar, medir y trasformar energía humana. Con energía humana nos
+    referimos a la fuerza de lo viviente, el respaldo que tiene un cuerpo para realizar una acción.
+    Esta deriva en vertientes energéticas como voluntad, humor, fuerza.
+    También podríamos hablar de Aura. El aura, desde la parapsicología, se concibe como un
+    campo energético de radiación luminosa multicolor que rodearía a las personas o a los objetos
+    como un halo y que sería invisible para la gran mayoría de los seres humanos.
+    Ésta es detectada a través de la presencia del cuerpo. Así la energía de cuerpo es medida y
+    transformada en sonido. Los indicadores luminosos que son afectados por las mediciones que
+    hace trasformando su color original. La energía que fluye a través del cuerpo humano es
+    detectada y trasformada como es transformado un flujo de electrones en sonido por un
+    parlante. La máquina esta construida sobre la plataforma de desarrollo Esp 32, led rgb y
+    sensores. A través del puerto serial Pure Data lee los datos del sensor y los transforma en
+    sonidos.
+    La máquina tuvo tres fases de desarrollo. Primero: construcción y puesta a punto.
+    Programación, desarrollo de la interfaz, instalación. Una Segunda fase donde la máquina es
+    probada en su faceta más performativa, en un lugar cerrado. Y una tercera fase comunitaria.
+    Aquí la máquina se abre a la comunidad, en un espacio abierto y público. Se hace una puesta
+    en valor de ella y se reflexiona acerca de lo que es, en una jornada de trabajo de campo donde
+    se invita a participar a la comunidad del barrio. Aquí es donde la máquina encuentra su
+    función, sus características narrativas, su función social, su nexo con la comunidad.
+    <br>
+    <a href="https://www.youtube.com/watch?v=2vtdN0pk_ZQ&feature=emb_title">Máquina Proceso 1</a>
+    <br>
+    <a href="https://www.youtube.com/watch?v=Wk1fdo7ZY3Y&feature=emb_title">Máquina Proceso 2</a>
+    <br>
+    <a href="https://www.youtube.com/watch?v=Q6nbTAzAVOc&feature=emb_title">Máquina Proceso 3</a>`
   },
   {
     right: false,

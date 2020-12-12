@@ -166,7 +166,7 @@ const INFO_MAES = [
     id: 7,
     nombre: 'MARTIN PARDO',
     imagen: '',
-    video: 'https://www.youtube.com/embed/QprykWVJA0c',
+    video: 'https://www.youtube.com/embed/Wk1fdo7ZY3Y',
     titulo: 'Máquina',
     texto: `Esta máquina permite detectar, medir y trasformar energía humana. Con energía humana nos
     referimos a la fuerza de lo viviente, el respaldo que tiene un cuerpo para realizar una acción.
@@ -189,9 +189,9 @@ const INFO_MAES = [
     se invita a participar a la comunidad del barrio. Aquí es donde la máquina encuentra su
     función, sus características narrativas, su función social, su nexo con la comunidad.
     <br>
-    <a href="https://www.youtube.com/watch?v=2vtdN0pk_ZQ&feature=emb_title">Máquina Proceso 1</a>
+    <a href="https://www.youtube.com/watch?v=QprykWVJA0c&feature=emb_title">Máquina Proceso 1</a>
     <br>
-    <a href="https://www.youtube.com/watch?v=Wk1fdo7ZY3Y&feature=emb_title">Máquina Proceso 2</a>
+    <a href="https://www.youtube.com/watch?v=2vtdN0pk_ZQ&feature=emb_title">Máquina Proceso 2</a>
     <br>
     <a href="https://www.youtube.com/watch?v=Q6nbTAzAVOc&feature=emb_title">Máquina Proceso 3</a>`
   },

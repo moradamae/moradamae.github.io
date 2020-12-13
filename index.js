@@ -26,22 +26,41 @@ const INFO_MAES = [
     id: 1,
     nombre: 'JUAN MICELI',
     imagen: '',
-    video: 'video',
-    titulo: 'Titulo de la obra Juan',
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-    essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: 'https://www.youtube.com/embed/fIWZQAIdBcw',
+    titulo: 'Domotica Inversa',
+    texto: `"mas que un tipo de trabajador las nuevas tecnologias (introducidas en las fábricas) gestaron un tipo de hombre" Mutantes, Maria Pia Lopez
+    <br>
+    <br>
+    “publicamos para no pasarnos la vida corrigiendo los borradores” Jorge Luis Borges, entrevista 1984 inédita 
+    <br>
+    <br>
+    
+    Fundamentación
+    <br>
+    En línea con la investigación/acción, comenzada en Eje Tiempo, Domótica Inversa es una proto/obra multiforme que intenta dar cuenta del fenómeno del modelado en sentido amplio: cerámico, espacial, social, colonial, electrónico, etc. Pienso que todos ellos parten del mismo principio: darle una forma a “lo amorfo” (incluyendo conductas y cuerpos), toda una categoría en relación a lo latinoamericano desde la perspectiva del filósofo argentino Rodolfo Kusch. 
+    Siguiendo esa línea, creo que hay un vínculo existencial entre los siguientes “constructores”: el modelado cerámico (y su vinculación con las máscaras mortuorias romanas), una enciclopedia Espasa Calpe (Barcelona, 1927), la tecnología sonora portátil (puntualmente un walkman de 1984) y la programación informática. 
+    D.I. consiste en unir esos factores a través de un microcontrolador ESP 32 que revele las nociones de autonomía, confort y automatismo que las atraviesa a todas. Trabajo con esa mezcla como gestión de una materia afín a la arcilla o la performance. Mejor dicho, entiendo la mezcla con mi poética, como una arcilla.
+    Vuelvo a empezar: D.I. es una performance que va desde la construcción del circuito a su ejecución, que funciona por afecto, como sistema abierto que en cada cerrarse, actualiza su forma y su estado. 
+    Si la domótica intenta proporcionarnos confort mediante la implementación de la autonomía y el automatismo aplicado al hogar, D.I. propone lo contrario: enfrentar los fantasmas, problemas y preguntas, aguantar lo que no se sabe de modo racional, ser nuestros propios gestores de bienestar (o no), en línea con deseos propios y colectivos. 
+    <br>
+    <br>
+    Memoria & Desarrollo
+    <br>
+    Cuando comienzo este trabajo, el primer circuito que consigo armar a partir de Arduino y la placa ESP32, incluye un walkman -que además de ser un megaconstructor de mi espacio (y cuerpo) adolescente- es un artefacto portátil pionero. No solo liberó nuestros cuerpos de la cercanía de los parlantes sino que fusionó esa maquinita sonora al cuerpo. En la primera versión, los botones de ese sistema capacitivo eran un negativo cerámico de mi cara y de la enciclopedia. Nada ocurría si no se tocaban esas piezas. Mariela Farina me hizo notar la dimensión afectiva que implicaba ese funcionamiento táctil.  Creo que en ese punto entra a rondar la sensación de lo per/formativo y comienzo a vincular este experimento con mi performance la suspensión. En esa acción planteaba la inversión como modo de desprogramar la idea de perspectiva que tendemos a naturalizar. 
+    En esa sintonía, D.I. propone acciones que invitan a ir en la dirección inversa a las planteadas por las matrices de pensamiento, fundamentalmente a través de lo afectivo: tacto, sonido, inversión del cuerpo, y el registro de rituales colectivos.
+    <br>
+    <br>
+    Reflexión Espacial
+    <br>
+    Este ejercicio en gran parte, arranca con la pregunta “que es morada mae?” Personalmente creo que es el cruce virtual y físico entre preguntas y saberes, es mi poética mezclándose con los contenidos y herramientas de la cursada, con la mirada de mis compañerxs. Para decirlo simple: es un espacio polifónicx no euclidianx. 
+    D.I. muta y se acerca a la obra como un modo de lo viviente. Puede adoptar varias formas y/o estados. En sus diversos ensayos y montajes se consolida y desarma cuestionando acerca del espacio en el que se inscribe y/o genera: cambia de botones, toma obras anteriores y las altera, desaparece el walkman, entra la comunicación MIDI, aparecen ecos del desarreglo de imágenes como el sorting o el reconocimiento facial, puede volverse un programa mezclador de video y sonido, etc. 
+    D.I. trae consigo el eco de la matriz grecorromana pero no como algo que está en el pasado sino como algo que se actualiza siempre, que habita debajo de nosotrxs, en la raíz, al decir de Ivone Bordelois. El término domótica viene de la unión de las palabras domus (que significa casa en latín ) y autónomo (del griego: αὐτόνομος; “que se gobierna a sí mismo” Una traducción posible podría ser casa automatizada. Como si a la larga cada vez que evocamos esa matriz de pensamiento estuviéramos en realidad trayendo un espacio, reactualizando esa matriz. 
+      <br>
+      <a href="https://issuu.com/juan_miceli/docs/proceso_y_documentacion_domotica_inversa_">bitácora & documentacion></a>
+      <br>
+      <a href="https://vimeo.com/96609513">suspensión original</a>
+      <br>
+      <a href="https://issuu.com/juan_miceli/docs/lcdelf_miceli">investigación encliclopedia</a>`
   },
   {
     right: true,
@@ -244,22 +263,9 @@ const INFO_MAES = [
     id: 10,
     nombre: `PABLO CAVALLO`,
     imagen: ``, 
-    video: `video`,
-    titulo: `Titulo de la obra Pablo C`,
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-            specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-            essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: `https://www.youtube.com/embed/goGaUPtezBM`,
+    titulo: `Ensayo sonoro visual`,
+    texto: `El video se compone de una serie de registros en los que incorporo la práctica electrónica. Capacitores, relés, microcontroladores, interfaces, motores. El sonido, que ejecuto por medio de un instrumento capacitor de aluminio, es la pieza central del video. El mismo se encuentra conectado a unos pines que registran un umbral de voltaje de 3.5 volts. Mi cuerpo absorbe ese voltaje al tacto llevándolo a tierra. Arduino detecta esa variación y la envía a un sintetizador de sonido que ejecuta notas MIDI. La forma del instrumento remite a los órganos de tubo que extraen la sonoridad por medio de un circuito de aire interno, entramado en la arquitectura original. Salvando las distancias entre estos instrumentos, y sin una finalidad replicante, el instrumento del video inunda el espacio como también al registro de las demás prácticas. El sonido acompaña con inexactitud lúgubre, situaciones pseudo performativas. se posiciona sobre lo inacabado, ensaya sobre piezas que no alcanzan un sentido definitivo. Merodean sobre su potencialidad. Son piezas tristes y artesanales, psico mágicas también, por que lindan entre el esteto-teatro absoluto y las taras de la psiquis. Una forma de accionar sobre el surmenage cognitivo.`
   },
   {
     right: false,
@@ -310,22 +316,13 @@ const INFO_MAES = [
     id: 13,
     nombre: 'MANUEL VELÁSQUEZ',
     imagen: '',
-    video: 'video',
-    titulo: 'Titulo de la obra Manuel',
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-    essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: 'https://www.youtube.com/embed/W9GUGvtk_6Y',
+    titulo: 'Presencia',
+    texto: `Con esta interfaz se busca mediar y potenciar la conexión virtual que se establece con aquellas personas
+    a las cuales no podemos acceder de manera de inmediata debido a la barrera de la distancia (o el
+    tiempo). A través de esta interfaz de cobre, soportada en un guante y apoyada por algoritmos de
+    procesamiento de imágenes es posible ver y escuchar y además tocar de manera virtual, otra manera de
+    estar con esa persona.`
   },
   {
     right: true,

@@ -4,22 +4,26 @@ const INFO_MAES = [
     id: 0,
     nombre: `XIOMARA ZAPATA`,
     imagen: ``, 
-    video: `https://www.youtube.com/embed/tgbNymZ7vqY`,
-    titulo: `Titulo de la obra Xio`,
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-            specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-            essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: `https://www.youtube.com/embed/KJXtoj8xz-E`,
+    titulo: `DLA {Decodificador de Lenguaje Alienígena}`,
+    texto: `El DLA le permitirá comunicarse con seres extraterrestres, decodificando lenguaje humano y alienígena.
+    <br>
+    <br>
+    Manual de instrucciones
+    <br>
+    - Una fuerza magnética lx atraerá, ubíquese frente al DLA.
+    <br>
+    - En el domo central se encuentra el Alien encargado de decodificación de movimientos corporales, levante su mano izquierda para saludar.
+    <br>
+    - Primer ventana : Es una cámara de detección de rostros , para ser identificadx ,mueva su cabeza hacia adelante y hacia atrás y gesticule sus palabras preferidas.
+    <br>
+    - A los costados del domo, cuatro estructuras sensibles al tacto le permitirán sumergirse en una atmósfera espacial y concentrarse en la emisión y recepción del mensaje.
+    <br>
+    - Segunda ventana : Un códice digital se encargará de traducir y transmitir por medio de ideogramas,signos y grafismos su mensaje
+    <br>
+    - Tercer ventana: Muestra el alfabeto Alienígena, obsérvelo unos minutos para familiarizarse con el. 
+    <br>
+    - Prepárese para recibir el mensaje alien por medio de ondas telepáticas.`
   },
   {
     right: true,
@@ -272,22 +276,18 @@ const INFO_MAES = [
     id: 11,
     nombre: 'JUAN MARCELO ARIAS',
     imagen: '',
-    video: 'video',
-    titulo: 'Titulo de la obra Juan',
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-    essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: 'https://player.vimeo.com/video/490144080',
+    titulo: 'Objeto Instrumento',
+    texto: `Lo importante para mí se encuentra en esa cuerda profunda, quizás es la que puede vibrar y trascender la reverberación física, contrario lo superficial será la capa que rápidamente se opaca silenciosa, erosiona y se extenúa por los agentes desgastantes del tiempo.
+    Aquel primer somero flagelo que oscila, nos atrae, pero finalmente, aburre, su evidencia lo hace predecible, obvio y se comporta como una distracción oblicua, un reflejo con mensaje ilegible.
+    Pero si observamos su diana, veremos esa razón intangible del objeto, que le da estructura y hasta fiabilidad espacial, pero llegar a conocerlo exige desplazarnos, movernos de nuestro punto, rodearlo, intervenirlo e intentar atravesarlo, solo así abandonando lo que creemos que somos por lo que deseamos, seremos finalmente libres y capaces de alcanzar con nitidez ese corazón, que en esencia es nuestra propia vibración.
+    <br>
+    <br>
+    Descripción general:
+    <br>
+    Básicamente Objeto Instrumento es el ejercicio de una idea, ahora materializada en un objeto físico, en un controlador inalámbrico construido aplicando técnicas aprendidas en la MAE2020 tomando como referente al Reactable.
+    Para mi propuesta en el eje tiempo, había expuesto un ejercicio de representación gráfica de secuencias musicales, y en aquel esquema presentaba la posibilidad del uso, interviniendo la cadena de procesos, con un controlador o mando opcional para colorear de alguna manera el resultado de la representación gráfica:
+    Este controlador finalmente se materializó en un objeto instrumento, con múltiples capas de desarrollo y de métodos, los que se logran finalmente, que interactúan para dar una funcionalidad los más dinámica y lúdica posible.`
   },
   {
     right: false,
@@ -351,22 +351,26 @@ const INFO_MAES = [
     id: 15,
     nombre: `FRANCESCA CANTORE`,
     imagen: ``, 
-    video: `video`,
-    titulo: `Titulo de la obra Franccesca`,
-    texto: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-            when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-            standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-            specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-            essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    video: `https://www.youtube.com/embed/QD6lnMLd3tI`,
+    titulo: `Migrar entre migrañas: Biocampo`,
+    texto: `Migrar entre migrañas: Biocampo es un proyecto electromagnético que transpola mi propia experiencia corporal a micro objetos. Las mini esculturas proponen una analogía entre diferentes prácticas orientales; tales como el arte de mahikari, el chikung - energía/dedicación -, y occidentales; como la inducción, el RPG, el SGA y el DNS; que trabajan a través de la respiración, la postura y la disciplina. Desde distintas metodologías estas prácticas encuentran varias similitudes y pueden complementarse en el accionar cotidiano. El encontrar un propio método donde repetir cierta ejercitación, fusionando el estado de meditación y la activación corporal consciente, se convierte en un micro gesto de la expresión mínima de la acción. 
+    <br>
+    <br>
+    Diferentes culturas observan al cuerpo como un mar de fluidos con sales disueltas que funcionan como electrones en cambio de tensión y corrientes. Es decir, electrones en metal = iones en líquidos, y es de esta manera que podemos notar que el cuerpo tiene su propio campo energético. Los impulsos nerviosos o impulsos de corriente activan los iones para generar un potencial de acción. Cada campo contiene información de todo lo que ese cuerpo ha sido, es y puede ser. El campo del Qi/Chi se presenta como un flujo de energía. Cualquier corriente eléctrica que fluye a través de un conductor produce un campo magnético alrededor de la misma.
+    Esta obra en proceso busca entender y hacer síntesis a través de objetos de estos mecanismos dando lugar a nuevos cuerpos frágiles a contemplar
+    <br>
+    <br>
+    Referencias
+    <br>
+    Omar Jury
+    <br>
+    Takis - Zen electromagnético
+    <br>
+    Nelo Akamatsu - Chijikinkutsu
+    <br>
+    Pe Lang - Moving objects | n°502 - 519
+    <br>
+    <a href="https://youtu.be/HtnyoYIg0N4">Ir al proceso</a>`
   },
   {
     right: true,

@@ -15,13 +15,13 @@ const INFO_MAES = [
     <br>
     - En el domo central se encuentra el Alien encargado de decodificación de movimientos corporales, levante su mano izquierda para saludar.
     <br>
-    - Primer ventana : Es una cámara de detección de rostros , para ser identificadx ,mueva su cabeza hacia adelante y hacia atrás y gesticule sus palabras preferidas.
+    - Primera ventana : Es una cámara de detección de rostros , para ser identificadx ,mueva su cabeza hacia adelante y hacia atrás y gesticule sus palabras preferidas.
     <br>
     - A los costados del domo, cuatro estructuras sensibles al tacto le permitirán sumergirse en una atmósfera espacial y concentrarse en la emisión y recepción del mensaje.
     <br>
-    - Segunda ventana : Un códice digital se encargará de traducir y transmitir por medio de ideogramas,signos y grafismos su mensaje
+    - Segunda ventana : Un códice digital se encargará de traducir y transmitir por medio de ideogramas, signos y grafismos su mensaje.
     <br>
-    - Tercer ventana: Muestra el alfabeto Alienígena, obsérvelo unos minutos para familiarizarse con el. 
+    - Tercera ventana: Muestra el alfabeto Alienígena, obsérvelo unos minutos para familiarizarse con el. 
     <br>
     - Prepárese para recibir el mensaje alien por medio de ondas telepáticas.`
   },
@@ -31,11 +31,11 @@ const INFO_MAES = [
     nombre: 'JUAN MICELI',
     imagen: '',
     video: 'https://www.youtube.com/embed/fIWZQAIdBcw',
-    titulo: 'Domotica Inversa',
-    texto: `"mas que un tipo de trabajador las nuevas tecnologias (introducidas en las fábricas) gestaron un tipo de hombre" Mutantes, Maria Pia Lopez
+    titulo: 'Domótica Inversa',
+    texto: `"Más que un tipo de trabajador las nuevas tecnologías (introducidas en las fábricas) gestaron un tipo de hombre" Mutantes, María Pía López
     <br>
     <br>
-    “publicamos para no pasarnos la vida corrigiendo los borradores” Jorge Luis Borges, entrevista 1984 inédita 
+    “Publicamos para no pasarnos la vida corrigiendo los borradores” Jorge Luis Borges, entrevista 1984 inédita 
     <br>
     <br>
     Fundamentación
@@ -93,9 +93,13 @@ const INFO_MAES = [
     id: 3,
     nombre: 'AMAWTA RELMU',
     imagen: '',
-    video: '',
-    titulo: '',
-    texto:  ``
+    video: 'https://www.youtube.com/embed/X0CJMUK8LpM',
+    titulo: 'Apertura de Proceso "MdS-1"',
+    texto:  `Apertura de Proceso "MdS-1". Consta de un Libro Objeto/ Libro Arte, el cual contiene una máquina sonora, ésta funciona como controlador midi al conectarla a un computador.
+
+    Desde el imaginario sobre las Máquinas y su interpretación estética en el arte, se genera el puntapié inicial de inspiración para este proyecto, que es una investigación sobre cómo es la relación de las máquinas con el humano y si es posible proponer mundos solo para ellas, basados en los mundos conocidos. 
+    
+    "MdS-1" es una primera exploración sobre las máquina sonora, de ruidos y dada.`
   },
   {
     right: true,
@@ -186,7 +190,7 @@ const INFO_MAES = [
     texto: `Esta máquina permite detectar, medir y trasformar energía humana. Con energía humana nos
     referimos a la fuerza de lo viviente, el respaldo que tiene un cuerpo para realizar una acción.
     Esta deriva en vertientes energéticas como voluntad, humor, fuerza.
-    También podríamos hablar de Aura. El aura, desde la parapsicología, se concibe como un
+    También podríamos hablar de aura. El aura, desde la parapsicología, se concibe como un
     campo energético de radiación luminosa multicolor que rodearía a las personas o a los objetos
     como un halo y que sería invisible para la gran mayoría de los seres humanos.
     Ésta es detectada a través de la presencia del cuerpo. Así la energía de cuerpo es medida y
@@ -215,14 +219,65 @@ const INFO_MAES = [
     id: 8,
     nombre: 'PABLO LOGIOVINE',
     imagen: '',
-    video: '',
-    titulo: '',
-    texto: ``
+    video: 'https://www.youtube.com/embed/OPB_ofOKiK0',
+    titulo: 'Nido Sonoro. El espacio recobrado',
+    texto: `El proyecto es tanto un objeto sonoro construido con formas tubulares que toma como
+    modelo el nido de las cotorras, como el archivo de audio de los registros producidos en
+    el hábitat natural de las aves y del estudio de la estructura de la “forma nido”.
+    <br>
+    <br>
+    La segunda mitad de 2020 coincidió con una nueva instancia para el mundo que había
+estado cerrado por la pandemia. El aislamiento obligatorio se fue suavizando y en pleno
+invierno, hacia finales de julio, las plazas volvieron a abrirse. Luego de tantos meses de
+cuarentena, comencé a pasar varias horas al día en los espacios verdes cercanos a mi
+casa. Con el correr del tiempo, estos lugares se fueron transformando en mi segunda
+morada. Los paseos fueron muy especiales porque los hice acompañado por mi hija de
+un año, por lo que estuvieron llenos de estímulos: exploramos cada rincón, cada objeto
+y cada cambio de luz, y esto nos hizo notar a ambxs muchas cosas que hace un año tal
+vez a mí no me hubieran llamado la atención. Este mundo descubierto por ella y
+redescubierto por mí luego del encierro, tuvo como banda sonora un sonido constante:
+el canto de las cotorras, que se transformó en sinónimo de estar al aire libre.
+Las cotorras llevan una vida ajetreada, constantemente construyen o reparan sus nidos y
+cantan llenándolo todo de sonido y ruido. Por ellas, comenzamos a mirar al cielo
+detenidamente y noté que, solo unos metros más arriba, la vida había continuado con
+total normalidad pese a nuestro humano mundo pandémico.
+    <br>
+    <br>
+    El proyecto desarrollado para el TP Espacio se originó en esta experiencia. Intenté darle
+forma al dispositivo de origen de la señal, el nido: por un lado, bosquejé en tinta
+distintas formas que imaginaba para los “nidos sonoros”; a su vez, busqué maneras de
+materializar cada forma-nido como fenómeno estructural con materiales diversos y,
+finalmente, hice varios diseños 3D que ampliaron las posibilidades de esa forma. En
+cuanto a la modelización del posible objeto sonoro, por un lado, hice pruebas con
+materiales orgánicos encontrados en la plaza. Por otro, utilicé cintas de tela y papel y
+vinilos autoadhesivos.
+    <br>
+    <br>
+    Entrada / Proceso / Salida
+    <br>
+    La sensación de que hay más para oír de lo que se escucha me llevó a intentar contar
+    con el sonido y un modelo visual lo que no se ve, mostrar cuál era la señal en presencia
+    del ruido. El proceso se caracterizó por una búsqueda de dos tipos de sonoridades: un
+    audio plano y envolvente, y otro ondulatorio y variante. Para esto trabajé con más de
+    doscientos cincuenta audios que fui registrando a lo largo de los últimos tres meses.
+    Para obtener el audio plano trabajé parte del material con Reaper más su complemento
+    Ambisonic Tool Kit, un plug-in VST para poder realizar un pista de audio con
+    posibilidades de escucha-sonido 3D tanto en multicanal como en estéreo. En cuanto a la
+    sonoridad ondulatoria y variable, procesé parte de los mas de trescientos audios con el
+    programa AudioStellar, lo cual me permitió tener una visualización aleatoria de los
+    sonidos semejante a la que sucede debajo de un árbol repleto de nidos de cotorras:
+    siempre ondulante.
+    El trabajo en relación con “el mundo parlante” fue una de las partes más importantes en
+    este proyecto. Recolecté todo tipo de altavoces: radios viejas, minicomponentes,
+    televisores y, finalmente, aquellos que vienen en los juguetes. Estos mini-parlantes son
+    los que me permitieron experimentar, en esta instancia del proyecto, las posibilidades
+    instalativas de objetos de pequeño formato.
+`
   },
   {
     right: false,
     id: 9,
-    nombre: 'OSCAR LAUQUEN',
+    nombre: 'OSCAR LLAUQUEN',
     imagen: '',
     video: '',
     titulo: '',
@@ -235,7 +290,7 @@ const INFO_MAES = [
     imagen: ``, 
     video: `https://www.youtube.com/embed/goGaUPtezBM`,
     titulo: `Ensayo sonoro visual`,
-    texto: `El video se compone de una serie de registros en los que incorporo la práctica electrónica. Capacitores, relés, microcontroladores, interfaces, motores. El sonido, que ejecuto por medio de un instrumento capacitor de aluminio, es la pieza central del video. El mismo se encuentra conectado a unos pines que registran un umbral de voltaje de 3.5 volts. Mi cuerpo absorbe ese voltaje al tacto llevándolo a tierra. Arduino detecta esa variación y la envía a un sintetizador de sonido que ejecuta notas MIDI. La forma del instrumento remite a los órganos de tubo que extraen la sonoridad por medio de un circuito de aire interno, entramado en la arquitectura original. Salvando las distancias entre estos instrumentos, y sin una finalidad replicante, el instrumento del video inunda el espacio como también al registro de las demás prácticas. El sonido acompaña con inexactitud lúgubre, situaciones pseudo performativas. se posiciona sobre lo inacabado, ensaya sobre piezas que no alcanzan un sentido definitivo. Merodean sobre su potencialidad. Son piezas tristes y artesanales, psico mágicas también, por que lindan entre el esteto-teatro absoluto y las taras de la psiquis. Una forma de accionar sobre el surmenage cognitivo.`
+    texto: `El video se compone de una serie de registros en los que incorporo la práctica electrónica. Capacitores, relés, microcontroladores, interfaces, motores. El sonido, que ejecuto por medio de un instrumento capacitor de aluminio, es la pieza central del video. El mismo se encuentra conectado a unos pines que registran un umbral de voltaje de 3.5 volts. Mi cuerpo absorbe ese voltaje al tacto llevándolo a tierra. Arduino detecta esa variación y la envía a un sintetizador de sonido que ejecuta notas MIDI. La forma del instrumento remite a los órganos de tubo que extraen la sonoridad por medio de un circuito de aire interno, entramado en la arquitectura original. Salvando las distancias entre estos instrumentos, y sin una finalidad replicante, el instrumento del video inunda el espacio como también al registro de las demás prácticas. El sonido acompaña con inexactitud lúgubre, situaciones pseudo performativas. Se posiciona sobre lo inacabado, ensaya sobre piezas que no alcanzan un sentido definitivo. Merodean sobre su potencialidad. Son piezas tristes y artesanales, psico mágicas también, por que lindan entre el esteto-teatro absoluto y las taras de la psiquis. Una forma de accionar sobre el surmenage cognitivo.`
   },
   {
     right: false,
@@ -262,14 +317,14 @@ const INFO_MAES = [
     imagen: '',
     video: 'https://www.youtube.com/embed/3biJmFqrRBA',
     titulo: 'Jauleria',
-    texto: `Para este proyecto me interese en investigar a la concepción de laberinto como espacio. Espacio de claustrofobia, de prisión, pero también de descubrimiento de aprendizaje.
+    texto: `Para este proyecto me interese en investigar a la concepción de laberinto como espacio. Espacio de claustrofobia, de prisión, pero también de descubrimiento, de aprendizaje.
     Quise preguntarme y reflexionar sobre el individuo ante el dilema a resolver, desde la percepción subjetiva frente a un laberinto.
     ¿Uno es un prisionero o un explorador? ¿Quizás las dos?
     El prisionero explora, busca la manera, el camino para escapar de su jaula laberíntica, el explorador es prisionero de su propia curiosidad por el descubrimiento, por saber que se esconde en cada rincón, ambas posturas se enfrentan, pero también se complementan y dialogan entre sí.
-    Luego de terminado el recorrido uno puede darse cuenta, descubrirse, si fue un prisionero o un explorador, uno u ambos. en cualquier caso, la liberación o el conocimiento, modifica al individuo cambiándolo para siempre.
+    Luego de terminado el recorrido uno puede darse cuenta, descubrirse, si fue un prisionero o un explorador, uno u ambos. En cualquier caso, la liberación o el conocimiento, modifica al individuo cambiándolo para siempre.
     
     Por esto me propongo generar un espacio virtual donde el espectador será la incógnita y la respuesta a la vez dentro de este entorno.
-    Como referencia me inspire e investigue en la lectura de los cuentos de José Luis Borges, “El jardín de los senderos que se bifurcan” y “La casa de Asterión”. Además, aplique mis experiencias obtenidas sobre el videojuego Portal, que consiste en un espacio virtual con portales dimensionales que nos llevan de un lugar a otro en forma de teletransportación. La idea de la de encontrar mecanismos en forma de puzles/desafíos para encontrar la salida dando también la posibilidad de la exploración del entorno y el descubrimiento de diversas obras o alegorías sobre obras artísticas que se esconden en él. 
+    Como referencia me inspire e investigue en la lectura de los cuentos de Jorge Luis Borges, “El jardín de los senderos que se bifurcan” y “La casa de Asterión”. Además, aplique mis experiencias obtenidas sobre el videojuego Portal, que consiste en un espacio virtual con portales dimensionales que nos llevan de un lugar a otro en forma de teletransportación. La idea de la de encontrar mecanismos en forma de puzles/desafíos para encontrar la salida dando también la posibilidad de la exploración del entorno y el descubrimiento de diversas obras o alegorías sobre obras artísticas que se esconden en él. 
     La premisa de investigación que me gustaría desarrollar es idea de una Jaula / Laberinto, que puede estar inmerso en el espacio de una gran galería artística, donde las pautas son, cuando nos encontramos dentro, las de decidir si optamos por la exploración o por encontrar la forma de escapar de allí, mientras tenemos las chances de observar diversas obras en forma de sonidos, luz, video y formas físicas que se nos revelan durante el camino. 
     Todo este recorrido propuesto será en tiempo real y sobre plataforma web en principio, pensada también en un futuro, para plataformas de ordenadores de escritorio, dispositivos móviles y sistemas de realidad aumentada, que pueden estar también situadas en espacios reales, proponiendo al espectador, convertido en protagonista, faces y objetivos donde el laberinto se transforma en una obra y muchas obras a la vez.
     En este paseo que les propongo, encontraran en las paredes exteriores murales de diversos artistas del activismo feminista, social y político como Barbara Kruger, Jenny Holzer, Bansky y el Fine Acts Collective. Dentro del laberinto, siendo a la vez galería, podremos descubrir entre sus recovecos obras de los artistas Judy Chicago, Dan Flavin, Aram Bartholl, Damien Hirst, Juan Miceli, una alegoría a mi proyecto Eje Tiempo y finalmente, un mensaje hecho palabra fisica que marco la cursada MAE en este inolvidable año 2020.
@@ -295,9 +350,14 @@ const INFO_MAES = [
     id: 14,
     nombre: 'AUSEL MUÑOZ',
     imagen: '',
-    video: '',
-    titulo: '',
-    texto: ``
+    video: 'https://www.youtube.com/embed/UzOZmu26uF4',
+    titulo: `Medi
+              <br>
+              Terraneo`,
+    texto: `Tal vez la inspiración de todo esto, es mi propia versión de la idea del mediterraneo: mitológica, mística, trágica, premonitoria, y divina; Las ideas de subversión que encuentro en el fantasy explicado por Rosemary Jackson, como el fantasy es capaz de subvertir la realidad, lo que en la realidad no pasa en el fantasy si.
+    también un poco de la idea de una realidad virtual que desde hace mucho tiempo asimiló los espacios mediante, videojuegos y recorribles. mi idea era simplemente subvertir, el orden de los elementos, siendo estos los elementos naturales, tierra, agua  y aire. Estos elementos conforman paisajes siempre siguiendo un orden de densidad de esa materia. y también están cargados de significado en las diferentes culturas, Tierra como materia física, consistente y estructurada, donde encontrar durabilidad, agua como caudal e influjo, emociones e intuición, aire como ideas, comunicación espacio etéreo, fluido e impermanente. entonces, cuál fue mi intención? mi intención es subvertir ese orden de densidad, entendiendo que la lógica con la que opera esto es una lógica del sueño. Arriba se posiciona el agua, lo sensible, abajo la materia, y por debajo de esto el aire. Estas figuras describen paisajes, pero también situaciones, tales como las que son expresadas en el i ching. donde diversas figuras pueden encontrarse en un orden que conforma un paisaje. En en este caso tome la figura 31, que se llama “HSIEN” o el influjo formado por dos trigramas llamados Ken ( el aquietamiento, la montaña) abajo y Tui (lo sereno, el lago), para mi caso realice una transposición ya que arriba esta el agua, y es un marcielo conformado por un plano ondeante, y la islaflotante que vendría a ser un cono, o una montaña invertida. mi intensión técnica y estética en un primer tramo era generar un video que ilustre ese espacio y sus movimientos por el mismo sumergirse en el cielo y atravesar la tierra, para este render emplee cinema4d para esculpir los objetos, texturizar, animar y crear el entorno, mi intención para un segundo tramo es generar un archivo recorrible en VR/Ejecutable mediante la combinación de cinema4d y unity y encontrar recorridos por medio de textos y sonidos propios, que incluya objetos relevantes para continuar el recorrido y la interacción. 
+     En el centro un diamante como metáfora que me trajo un fragmento del libro trópico de capricornio de Henry Miller : "No existe una diferencia fundamental, inalterable entre las cosas: todo es flujo, todo es perecedero. La superficie de tu ser está desintegrándose constantemente; sin embargo, por dentro te vuelves duro como un diamante. Y quizá sea ese núcleo duro, magnético, dentro de ti lo que atrae a los otros hacia ti de buen o mal grado. Una cosa es segura: que cuando mueres y resucitas, perteneces a la tierra y lo que quiera que sea de la tierra es tuyo inalienablemente."
+    `
   },
   {
     right: true,
@@ -329,12 +389,17 @@ const INFO_MAES = [
     right: true,
     id: 16,
     nombre: 'MILAGROS ARIAS Y SARA SANTACRUZ',
-    imagen: '',
-    video: 'video',
+    imagen: './assets/saraimage.png',
+    video: null,
     titulo: 'GiraSueños',
-    texto:  `Este proyecto se trata de la creación  y desarrollo de una aplicación que permita a las personas contactarse a partir de sus sueños. Una vez el usuario grabe su sueño en la aplicación, le llegará un sueño a otra persona. Éste sueño será un misterio hasta que lo escuche. 
-    La aplicación funcionará una vez que el usuario ingrese el nombre del sueño, oprimiendo el espejo grabe su sueño y oprimiendo la lechuza, envíe su sueño.
+    texto:  `Este proyecto se trata de la creación y desarrollo de una aplicación que permita a las personas contactarse a partir de sus sueños. Una vez el usuario grabe su sueño en la aplicación, le llegará un sueño a otra persona. Éste sueño será un misterio hasta que lo escuche. 
+    La aplicación funcionará una vez que el usuario ingrese el nombre del sueño.
+    oprima el espejo para grabar su sueño y oprimiendo la lechuza lo enviara.
+    <br>
+    <br>
     Este es un atrapasueños colectivo. Entrelaza los mundos inconscientes que nos unen y son compartidos. Regalar un sueño para recibir un sueño como una acción poética.
+    <br>
+    <img src="./assets/qr-atrapasuenoscol.png"/>
     `
   },
   {
@@ -448,7 +513,9 @@ function renderContainer(element) {
           </div>
         </div>
         <div class="info-obra">
-        <iframe class="imagen" src=${elementInfo.video}> </iframe>
+          ${elementInfo.video ? `<iframe class="imagen" src=${elementInfo.video}> </iframe>`
+            : `<img class="imagen" src="${elementInfo.imagen}"/>`
+          }
           <p>${elementInfo.texto}</p>
         </div>
       </div>

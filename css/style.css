@@ -4,6 +4,10 @@
   font-weight: 400;
 }
 
+.h_iframe iframe img {
+  width: 100%;
+}
+
 body {
   margin: 0;
 }

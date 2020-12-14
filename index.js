@@ -394,7 +394,7 @@ instalativas de objetos de pequeño formato.
     imagen: './assets/saraimage.png',
     video: null,
     titulo: 'GiraSueños',
-    texto:  ` a las personas contactarse a partir de sus sueños. Una vez el usuario grabe su sueño en la aplicación, le llegará un sueño a otra persona. Éste sueño será un misterio hasta que lo escuche. 
+    texto:  `Este proyecto se trata de la creación y desarrollo de una aplicación que permita a las personas contactarse a partir de sus sueños. Una vez el usuario grabe su sueño en la aplicación, le llegará un sueño a otra persona. Éste sueño será un misterio hasta que lo escuche. 
     La aplicación funcionará una vez que el usuario ingrese el nombre del sueño.
     oprima el espejo para grabar su sueño y oprimiendo la lechuza lo enviara.
     <br>

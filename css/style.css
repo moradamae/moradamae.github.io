@@ -19,6 +19,10 @@ body {
   overflow: hidden;
 }
 
+.texto-cursivo {
+  font-style: italic;
+}
+
 .container .img-fondo {
   position: relative;
   display: block;

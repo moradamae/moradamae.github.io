@@ -84,9 +84,74 @@ const INFO_MAES = [
     id: 2,
     nombre: 'JOHN MELO',
     imagen: '',
-    video: '',
-    titulo: '',
-    texto: ``
+    video: 'https://www.youtube.com/embed/qVP1oxirj7o',
+    titulo: 'Esa maldita pared',
+    texto: `En las paredes se pelean territorios. Los muros, son espacios en
+    donde puede haber una contrahegemonía de discurso, allí se disputan
+    la atención del caminante (o del internauta). Además, pueden ser
+    espacios de reconstrucción de memoria. Sin embargo, hay una
+    especie de repudio hacía el rayón que perturba la pasividad del muro
+    ¿será el mensaje implícito el que intranquiliza? Desde hace algunos
+    unos años estuve coleccionando algunas fotografías de graffitis (rayón
+    político) y siempre pensé en recrearlos con luz, junto con su estética
+    casual y urgida. Darle una segunda escena en donde se ponga en
+    cuestión si lo que en verdad incomoda es la maldita pared pintada.
+    <br>
+    <br>
+    /* El 29 de agosto de 2019, las Fuerzas Militares de Colombia
+    bombardearon un campamento de disidencias de la guerrilla de las
+    Farc en una zona de San Vicente del Caguán (Caquetá), en donde
+    había 8 niños. La respuesta del presidente de Colombia, Iván Duque,
+    a un periodista que le pidió su opinión sobre el bombardeo fue “¿De
+    qué me hablas viejo?”. En pocos días un profesor y querido amigo
+    encontró en la ciudad de Popayán, capital del departamento del Cauca
+    el graffiti: “Fueron niños, viejo”. */
+    <br>
+    <br>
+    No en vano, Popayán es nombrada como “La ciudad blanca” … ¿Un
+    lienzo entero para el graffiti?
+    <br>
+    <br>
+    En “Esa maldita pared” se juegan la vida dos espacios, el muro en el
+    espacio público de las ciudades y el muro en el espacio público de
+    internet (Facebook). Aunque el graffiti de luz podría emplazarse en
+    cualquier lugar, este espacio tiene una característica importante, es el
+    muro del Centro Colombo Americano, en donde fueron censurados
+    PowerPaola y Lucas Ospina en el marco 45 Salón Nacional de Artistas
+    en el 2019 en la ciudad de Bogotá. El segundo espacio, el muro en
+    Facebook, es activado con una acción por Facebook live. El graffiti
+    está siendo grabado en vivo y el habitante de Facebook puede
+    participar censurando (apaga el graffiti) o enunciando el mensaje
+
+    (prende el graffiti) en tiempo real ingresando en un link. Aquí una
+    reflexión que me interpela es sobre la complicidad o indiferencia ante
+    la censura y ante el olvido.
+    Este juego de muro virtual y muro físico, traspasa. Une dos
+    dimensiones y consolida un mensaje. Es un doble acto “vandálico”, un
+    grito silente que resiste y cuyo eco puede ser la misma replica en la
+    dimensión de la virtualidad.
+    <br>
+    <br>
+    /* “La denuncia insistente en la noche oscura por la memoria de
+    aquellos que ya no pueden hablar, se constituye en un grito ahogado
+    por la justicia que no llegó. Desde la ciudad se vislumbra esa luz con
+    un mensaje que cala en la consciencia, por los inocentes caídos en la
+    selva, con el único fin de no aceptar esa pérdida impune, dejando
+    desnuda la postura infame de quién alguna vez dijo en tono de
+    pregunta &quot;¿De qué me hablas viejo?” Diego Cruz */
+    <br>
+    <br>
+    <span class="texto-cursivo">“El graffiti en una pared, es recuperación de la palabra, no distorsiona la
+    verdad. Un canalla, para serlo, no necesita de un muro. Puede serlo delante
+    de un micrófono o detrás de una cámara de televisión.” Patricio Falconí</span>
+    <br>
+    <br>
+    <a href="https://bit.ly/3nluJab">Acción en Facebook</a>
+    <br>
+    <a href="https://bit.ly/3qVcRFt">Página</a>
+    <br>
+    <a href="https://bit.ly/34cUDpk">Pdf</a>
+    `
   },
   {
     right: true,

@@ -38,28 +38,41 @@ const INFO_MAES = [
     “publicamos para no pasarnos la vida corrigiendo los borradores” Jorge Luis Borges, entrevista 1984 inédita 
     <br>
     <br>
-    
     Fundamentación
     <br>
-    En línea con la investigación/acción, comenzada en Eje Tiempo, Domótica Inversa es una proto/obra multiforme que intenta dar cuenta del fenómeno del modelado en sentido amplio: cerámico, espacial, social, colonial, electrónico, etc. Pienso que todos ellos parten del mismo principio: darle una forma a “lo amorfo” (incluyendo conductas y cuerpos), toda una categoría en relación a lo latinoamericano desde la perspectiva del filósofo argentino Rodolfo Kusch. 
-    Siguiendo esa línea, creo que hay un vínculo existencial entre los siguientes “constructores”: el modelado cerámico (y su vinculación con las máscaras mortuorias romanas), una enciclopedia Espasa Calpe (Barcelona, 1927), la tecnología sonora portátil (puntualmente un walkman de 1984) y la programación informática. 
-    D.I. consiste en unir esos factores a través de un microcontrolador ESP 32 que revele las nociones de autonomía, confort y automatismo que las atraviesa a todas. Trabajo con esa mezcla como gestión de una materia afín a la arcilla o la performance. Mejor dicho, entiendo la mezcla con mi poética, como una arcilla.
+    En linea con la investigación/acción, comenzada en Eje Tiempo, Domotica Inversa es una proto/obra multiforme que intenta dar cuenta del fenómeno del modelado en sentido amplio: cerámico, espacial, social, colonial, electrónico, etc. Pienso que todos ellos parten del mismo principio: darle una forma a “lo amorfo” (incluyendo conductas y cuerpos), toda una categoría en relación a lo latinoamericano desde la perspectiva del filosofo argentino Rodolfo Kusch. 
+    <br>
+    Siguiendo esa linea, creo que hay un vinculo existencial entre los siguientes “constructores”: el modelado cerámico (y su vinculación con las mascaras mortuorias romanas), una enciclopedia Espasa Calpe (Barcelona, 1927), la tecnología sonora portátil (puntualmente un walkman de 1984) y la programación informática. 
+    <br>
+    <br>
+    D.I. consiste en unir esos factores a través de un microcontrolador ESP 32 que revele las nociones de autonomía, confort y automatismo que las atraviesa a todas. Trabajo con esa mezcla como gestión de una materia afin a la arcilla o la performance. Mejor dicho, entiendo la mezcla con mi poética, como una arcilla.
     Vuelvo a empezar: D.I. es una performance que va desde la construcción del circuito a su ejecución, que funciona por afecto, como sistema abierto que en cada cerrarse, actualiza su forma y su estado. 
-    Si la domótica intenta proporcionarnos confort mediante la implementación de la autonomía y el automatismo aplicado al hogar, D.I. propone lo contrario: enfrentar los fantasmas, problemas y preguntas, aguantar lo que no se sabe de modo racional, ser nuestros propios gestores de bienestar (o no), en línea con deseos propios y colectivos. 
+    <br>
+    <br>
+    Si la domotica intenta proporcionarnos confort mediante la implementación de la autonomia y el automatismo aplicado al hogar, D.I. propone lo contrario: enfrentar los fantasmas, problemas y preguntas, aguantar lo que no se sabe de modo racional, ser nuestros propios gestores de bienestar (o no), en linea con deseos propios y colectivos. 
     <br>
     <br>
     Memoria & Desarrollo
     <br>
-    Cuando comienzo este trabajo, el primer circuito que consigo armar a partir de Arduino y la placa ESP32, incluye un walkman -que además de ser un megaconstructor de mi espacio (y cuerpo) adolescente- es un artefacto portátil pionero. No solo liberó nuestros cuerpos de la cercanía de los parlantes sino que fusionó esa maquinita sonora al cuerpo. En la primera versión, los botones de ese sistema capacitivo eran un negativo cerámico de mi cara y de la enciclopedia. Nada ocurría si no se tocaban esas piezas. Mariela Farina me hizo notar la dimensión afectiva que implicaba ese funcionamiento táctil.  Creo que en ese punto entra a rondar la sensación de lo per/formativo y comienzo a vincular este experimento con mi performance la suspensión. En esa acción planteaba la inversión como modo de desprogramar la idea de perspectiva que tendemos a naturalizar. 
-    En esa sintonía, D.I. propone acciones que invitan a ir en la dirección inversa a las planteadas por las matrices de pensamiento, fundamentalmente a través de lo afectivo: tacto, sonido, inversión del cuerpo, y el registro de rituales colectivos.
+    Cuando comienzo este trabajo, el primer circuito que consigo armar partir de Arduino y la placa ESP32, incluye un walkman -que ademas de ser un megaconstructor de mi espacio (y cuerpo) adolescente- es un artefacto portátil pionero. No solo liberó nuestros cuerpos de la cercanía de los parlantes sino que fusionó esa maquinita sonora al cuerpo. En la primera versión, los botones de ese sistema capacitivo eran un negativo cerámico de mi cara y de la enciclopedia. Nada ocurría si no se tocaban esas piezas. Mariela Farina me hizo notar la dimensión afectiva que implicaba ese funcionamiento táctil.  Creo que en ese punto entra a rondarme la sensación de lo per/formativo y comienzo a vincular este experimento con mi performance la suspensión. En esa acción planteaba la inversión como modo de desprogramar la idea de perspectiva que tendemos a naturalizar. 
+    En esa linea, D.I. propone acciones que invitan a ir en la direccion inversa a las planteadas por las matrices de pensamiento, fundamentalmente a través de lo afectivo: tacto, sonido, inversión del cuerpo, y el registro de rituales colectivos.
     <br>
     <br>
     Reflexión Espacial
     <br>
-    Este ejercicio en gran parte, arranca con la pregunta “que es morada mae?” Personalmente creo que es el cruce virtual y físico entre preguntas y saberes, es mi poética mezclándose con los contenidos y herramientas de la cursada, con la mirada de mis compañerxs. Para decirlo simple: es un espacio polifónicx no euclidianx. 
-    D.I. muta y se acerca a la obra como un modo de lo viviente. Puede adoptar varias formas y/o estados. En sus diversos ensayos y montajes se consolida y desarma cuestionando acerca del espacio en el que se inscribe y/o genera: cambia de botones, toma obras anteriores y las altera, desaparece el walkman, entra la comunicación MIDI, aparecen ecos del desarreglo de imágenes como el sorting o el reconocimiento facial, puede volverse un programa mezclador de video y sonido, etc. 
-    D.I. trae consigo el eco de la matriz grecorromana pero no como algo que está en el pasado sino como algo que se actualiza siempre, que habita debajo de nosotrxs, en la raíz, al decir de Ivone Bordelois. El término domótica viene de la unión de las palabras domus (que significa casa en latín ) y autónomo (del griego: αὐτόνομος; “que se gobierna a sí mismo” Una traducción posible podría ser casa automatizada. Como si a la larga cada vez que evocamos esa matriz de pensamiento estuviéramos en realidad trayendo un espacio, reactualizando esa matriz. 
-      <br>
+    Este ejercicio en gran parte, arranca con la preguntas acerca de qué espacios podemos generar en cuarentena y “qué es Morada MAE?” 
+    Personalmente creo que es varias espacialidades:  el cruce virtual y físico entre preguntas y saberes; mi poética mezclándose con los contenidos y herramientas de la cursada, con la mirada de mis compañerxs. Para decirlo simple: es un espacio polifónicx no euclidianx, es un punto de encuentro que se da tanto en la red como en un pasaje de La Paternal y tambien las experiencias, imágenes y textos que quedan como rastro del encuentro.
+    <br>
+    <br>
+    Siguiendo esa linea de transformación espacial, D.I. muta y propone la obra como un modo de lo viviente. Puede adoptar varias formas y/o estados. En sus diversos ensayos y montajes se consolida y desarma cuestionando acerca del espacio en el que se inscribe y/o genera: cambia de botones, toma obras anteriores y las altera, desaparece el walkman, entra la comunicación MIDI, aparecen ecos del desarreglo de imagenes como el sorting o el reconocimiento facial, puede volverse un programa mezclador de video y sonido, etc. 
+    Al final del video, D.I., se integra al intercambio y al dialogo con otra ESP32 operada por Guille Miotti que activa luces y dispara videos relacionados con el concepto de suspensión y con Morada Mae. 
+    <br>
+    <br>
+    D.I. trae consigo el eco de la matriz grecorromana  (Palas Atenea, el saber ocupa lugar, lo colonial, las mascaras mortuorias, etc) pero no como algo que esta en el pasado sino como algo que se actualiza siempre, que -al decir de Ivonne Bordelois- esta debajo de nosotrxs, en la raíz. 
+    <br>
+    El término domótica (como muchísimos de los que usamos) deriva del latín y del griego (esa conjunción tambien podría pensarse como una matriz espacial). Justamente de la unión de las palabras domus (que significa casa en latín ) y autónomo (del griego: αὐτόνομος; “que se gobierna a sí mismo” Una traducción posible es casa inteligente y automatizada. Como si, en definitiva, cada vez que evocamos esa matriz de pensamiento estuviéramos en realidad reactualizándola. Domotica Inversa es pensar que eso nos da la posibilidad de interpelarlo y re formularlo.
+    <br>
+    <br>  
       <a href="https://issuu.com/juan_miceli/docs/proceso_y_documentacion_domotica_inversa_">bitácora & documentacion></a>
       <br>
       <a href="https://vimeo.com/96609513">suspensión original</a>
@@ -318,21 +331,11 @@ const INFO_MAES = [
     nombre: 'MILAGROS ARIAS Y SARA SANTACRUZ',
     imagen: '',
     video: 'video',
-    titulo: 'Titulo de la obra Mili y Sara',
-    texto:  `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-    when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. 
-    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's 
-    standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-    It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
-    It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-    specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining 
-    essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-    and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.`
+    titulo: 'GiraSueños',
+    texto:  `Este proyecto se trata de la creación  y desarrollo de una aplicación que permita a las personas contactarse a partir de sus sueños. Una vez el usuario grabe su sueño en la aplicación, le llegará un sueño a otra persona. Éste sueño será un misterio hasta que lo escuche. 
+    La aplicación funcionará una vez que el usuario ingrese el nombre del sueño, oprimiendo el espejo grabe su sueño y oprimiendo la lechuza, envíe su sueño.
+    Este es un atrapasueños colectivo. Entrelaza los mundos inconscientes que nos unen y son compartidos. Regalar un sueño para recibir un sueño como una acción poética.
+    `
   },
   {
     right: true,

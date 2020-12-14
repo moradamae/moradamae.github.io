@@ -255,29 +255,6 @@ finalmente, hice varios diseños 3D que ampliaron las posibilidades de esa forma
 cuanto a la modelización del posible objeto sonoro, por un lado, hice pruebas con
 materiales orgánicos encontrados en la plaza. Por otro, utilicé cintas de tela y papel y
 vinilos autoadhesivos.
-<<<<<<< HEAD
-    <br>
-    <br>
-    Entrada / Proceso / Salida
-    <br>
-    La sensación de que hay más para oír de lo que se escucha me llevó a intentar contar
-    con el sonido y un modelo visual lo que no se ve, mostrar cuál era la señal en presencia
-    del ruido. El proceso se caracterizó por una búsqueda de dos tipos de sonoridades: un
-    audio plano y envolvente, y otro ondulatorio y variante. Para esto trabajé con más de
-    doscientos cincuenta audios que fui registrando a lo largo de los últimos tres meses.
-    Para obtener el audio plano trabajé parte del material con Reaper más su complemento
-    Ambisonic Tool Kit, un plug-in VST para poder realizar un pista de audio con
-    posibilidades de escucha-sonido 3D tanto en multicanal como en estéreo. En cuanto a la
-    sonoridad ondulatoria y variable, procesé parte de los mas de trescientos audios con el
-    programa AudioStellar, lo cual me permitió tener una visualización aleatoria de los
-    sonidos semejante a la que sucede debajo de un árbol repleto de nidos de cotorras:
-    siempre ondulante.
-    El trabajo en relación con “el mundo parlante” fue una de las partes más importantes en
-    este proyecto. Recolecté todo tipo de altavoces: radios viejas, minicomponentes,
-    televisores y, finalmente, aquellos que vienen en los juguetes. Estos mini-parlantes son
-    los que me permitieron experimentar, en esta instancia del proyecto, las posibilidades
-    instalativas de objetos de pequeño formato.
-=======
 <br>
 <br>
 La sensación de que hay más para oír de lo que se escucha me llevó a intentar contar
@@ -297,7 +274,6 @@ este proyecto. Recolecté todo tipo de altavoces: radios viejas, minicomponentes
 televisores y, finalmente, aquellos que vienen en los juguetes. Estos mini-parlantes son
 los que me permitieron experimentar, en esta instancia del proyecto, las posibilidades
 instalativas de objetos de pequeño formato.
->>>>>>> e7d6c8f73f87ea5acd15422c50939920ef34b16f
 `
   },
   {

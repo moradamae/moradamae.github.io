@@ -472,7 +472,7 @@ instalativas de objetos de pequeño formato.
     <br>
     Este es un atrapasueños colectivo. Entrelaza los mundos inconscientes que nos unen y son compartidos. Regalar un sueño para recibir un sueño como una acción poética.
     <br>
-    <img src="./assets/qr-atrapasuenoscol.png"/>
+    <a rel='nofollow' href='https://www.qr-code-generator.com' border='0' style='cursor:default'><img src='https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Fgirasuenos.vercel.app&chs=180x180&choe=UTF-8&chld=L|2' alt=''></a>
     `
   },
   {

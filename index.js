@@ -481,11 +481,33 @@ instalativas de objetos de pequeño formato.
     id: 17,
     nombre: 'MATIAS AVALOS',
     imagen: '',
-    video: '',
-    titulo: '',
-    texto: ``
+    video: 'https://player.vimeo.com/video/491024937',
+    titulo: 'DE FRENTE AL RUIDO',
+    texto: `es el primero en una serie de ejercicios de creación de mundos domóticos, un prototipo de instalación senso-lumínica (con la que también se contempla performar) de mediación con la extrañeza psicológica instalada por la realidad pandémica; tan universal como particular en cada caso..
+    <br>
+    <br>
+    Estos últimos meses de tránsito de Eje espacio me fueron muy enriquecidos por seminarios y prácticas sobre los sensados del entorno con microcontroladores, y sobre todo del control de la luz, incluso ultravioletas. También fueron meses donde este pantano incierto ante la "vuelta a la normalidad" de la movilidad y, por ende, el reencuentro postergado con personas queridas en mi oriundo Corrientes, representó una cuota de ansiedad y desbalance del ritmo circadiano importantes.
+    <br>
+    <br>
+    Una noche de esas, y por accidente al tener un ejercicio de tiras led montado, descubrí que podía paliar un poco ese malestar inundando de luz roja el monoambiente. Lo que empezó como un placebo, poco después y al ser de consistente utilidad tuve que hacer búsquedas que corroboren (o no) su uso terapéutico: al tener 700 nanómetros y al estar fuera de nuestro rango "cómodo" del ojo humano en baja luminosidad, los bastones no se estimulan por longitudes de onda tan largas, mientras que los conos pueden acceder a estadíos de visión fotópica (diurna) remapeando los valores de tolerancia para que el cuerpo pueda seguir interpretando. Esto es conocido como "desplazamiento de Purkinje", que se usa (por ejemplo) en algunas partes de submarinos y torres de control y que, efectivamente: en estos últimos dos años se está investigando como respuesta a desórdenes de sueño.
+    <br>
+    <br>
+    Este autoadiestramiento electrónico pronto me trajo preguntas y sorpresas: Un color tan culturalmente instalado como señal de alto, peligro, cancelación, disuasión, es también una propiedad normalizadora de la óptica, dado el contexto adecuado. ¿Acaso colectivamente no venimos normalizando todos estos meses de miedos, las incertidumbres, (y lo venidero!) las cero garantías a futuro? Dejo que el rojo, lo incierto pero sedante, habite este espacio conmigo entonces; pero fuera de su rol pasivo. Con Ray Bradbury como antorcha poética, por sus domóticas presentes ante un conflicto que aniquiló a la humanidad (There will come soft rains) así como inteligencias artificiales humanamente alteradas para exotizar los interiores (The veldt) comienzo a experimentar. El departamento DE FRENTE AL RUIDO solamente se enciende en habitaciones donde no estoy. Al volver a ellas, vuelven a su inactividad.
+    <br>
+    <br>
+    Dimensión técnica:
+    <br>
+    <br>
+    La primera etapa de la obra requirió elegir entre tres protocolos inalámbricos de lámparas inteligentes, me decidí por las infrarrojas sobre las Zigbee o las Bluetooth ya que son más fáciles de hacerles su leve ingeniería inversa. Emplea microcontroladores de la familia ESP32(S), sensores PIR de movimiento, emisores infrarrojos hechos a medida y una unidad receptora KY-022 que fue la encargada de "aprender" los paquetes IR del control remoto de fábrica (sacrificado luego por su emisor IR).
+    <br>
+    <br>
+    El papel aluminio resultó un gran hallazgo para ocluír, particionar, e incluso curvar el haz emisor, lo cual desdobla muchas posibilidades de pensar obra. Para este primer prototipo, armé "francotiradores de señal" con cilindros de aluminio. Esto me da no solo la posibilidad de dibujar con volúmenes el rango de acción, sino poder plantearme futuros emisores de disparo constante con los cuales performar y alterar color por movimiento humano que afecten cualquier receptor IR en rango. Este primer sketch se encarga de cruzar lo sensado por los PIR en cada habitación con las instrucciones a las lámparas led. Ante ausencia humana, y tras un delay, los emisores retoman su prendido y apagado aleatorio.
+    `
   }
 ];
+
+
+
 
 const CONTAINER_INFO = document.getElementById('container');
 let index_html = '';

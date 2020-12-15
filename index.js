@@ -393,8 +393,6 @@ instalativas de objetos de pequeño formato.
     <br>
     El recorrido propuesto será en tiempo real y sobre plataforma web en principio, pensada también en un futuro, para plataformas de ordenadores de escritorio, dispositivos móviles y sistemas de realidad aumentada. El proyecto también puede montarse en espacios reales donde el laberinto se transforma en una obra y muchas obras a la vez.
     <br>
-    En el recorrido tenemos las chances de observar diversas obras de artistas que me resultaron inspiradoras. En las paredes exteriores encontrarán murales de artistas del activismo feminista, social y político como Barbara Kruger, Jenny Holzer, Bansky y el Fine Acts Collective. Dentro del laberinto, siendo a la vez galería, podremos descubrir entre sus recovecos obras de los artistas Judy Chicago, Dan Flavin, Aram Bartholl, Damien Hirst, Juan Miceli, una alegoría a mi proyecto Eje Tiempo y finalmente, un mensaje hecho palabra fisica que marco la cursada MAE en este inolvidable año 2020. Disfruten el paseo.
-    <br>
     <br>
     En el recorrido tenemos las chances de observar diversas obras de artistas que me resultaron inspiradoras. En las paredes exteriores encontrarán murales de artistas del activismo feminista, social y político como Barbara Kruger, Jenny Holzer, Bansky y el Fine Acts Collective. Dentro del laberinto, siendo a la vez galería, podremos descubrir entre sus recovecos obras de los artistas Judy Chicago, Dan Flavin, Aram Bartholl, Damien Hirst, Juan Miceli, una alegoría a mi proyecto Eje Tiempo y finalmente, un mensaje hecho palabra fisica que marco la cursada MAE en este inolvidable año 2020. Disfruten el paseo.
     <br>

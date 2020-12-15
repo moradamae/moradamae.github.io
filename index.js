@@ -292,7 +292,7 @@ const INFO_MAES = [
     titulo: 'Nido Sonoro',
     texto: `El proyecto es tanto un objeto sonoro construido con formas tubulares que toma como
     modelo el nido de las cotorras, como el archivo de audio de los registros producidos en
-    el hábitat natural de las aves y del estudio de la estructura de la “forma nido”..
+    el hábitat natural de las aves y del estudio de la estructura de la “forma nido”.
     <br>
     <br>
     La segunda mitad de 2020 coincidió con una nueva instancia para el mundo que había
@@ -467,7 +467,8 @@ instalativas de objetos de pequeño formato.
     titulo: 'GiraSueños',
     texto:  `Este proyecto se trata de la creación y desarrollo de una aplicación que permita a las personas contactarse a partir de sus sueños. Una vez el usuario grabe su sueño en la aplicación, le llegará un sueño a otra persona. Éste sueño será un misterio hasta que lo escuche. 
     La aplicación funcionará una vez que el usuario ingrese el nombre del sueño.
-    oprima el espejo para grabar su sueño y oprimiendo la lechuza lo enviara.
+    oprima el espejo para grabar su sueño, oprima de nuevo para parar la grabación
+    y oprimiendo la lechuza lo enviara.
     <br>
     <br>
     Este es un atrapasueños colectivo. Entrelaza los mundos inconscientes que nos unen y son compartidos. Regalar un sueño para recibir un sueño como una acción poética.

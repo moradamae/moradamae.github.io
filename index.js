@@ -396,8 +396,6 @@ instalativas de objetos de pequeño formato.
     <br>
     En el recorrido tenemos las chances de observar diversas obras de artistas que me resultaron inspiradoras. En las paredes exteriores encontrarán murales de artistas del activismo feminista, social y político como Barbara Kruger, Jenny Holzer, Bansky y el Fine Acts Collective. Dentro del laberinto, siendo a la vez galería, podremos descubrir entre sus recovecos obras de los artistas Judy Chicago, Dan Flavin, Aram Bartholl, Damien Hirst, Juan Miceli, una alegoría a mi proyecto Eje Tiempo y finalmente, un mensaje hecho palabra fisica que marco la cursada MAE en este inolvidable año 2020. Disfruten el paseo.
     <br>
-    <a href="https://moradamae.github.io/jauleria_guille_miotti/">IR AL LABERINTO</a>
-    <br>
     <a href="https://drive.google.com/drive/folders/1U6Tkvcm7ZuPmYJpZJwYLzsIY0K3p54-h?usp=sharing">Versión PC</a>
     <br>
     <a href="https://drive.google.com/drive/folders/1TBkxcKWF8yDzqEalJ0FmWyS-kz5dWoEn?usp=sharing">Versión Mac</a>

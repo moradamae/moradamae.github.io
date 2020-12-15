@@ -468,7 +468,7 @@ instalativas de objetos de pequeño formato.
     texto:  `Este proyecto se trata de la creación y desarrollo de una aplicación que permita a las personas contactarse a partir de sus sueños. Una vez el usuario grabe su sueño en la aplicación, le llegará un sueño a otra persona. Éste sueño será un misterio hasta que lo escuche. 
     La aplicación funcionará una vez que el usuario ingrese el nombre del sueño.
     oprima el espejo para grabar su sueño, oprima de nuevo para parar la grabación
-    y oprimiendo la lechuza lo enviara.
+    y oprimiendo la lechuza lo enviará.
     <br>
     <br>
     Este es un atrapasueños colectivo. Entrelaza los mundos inconscientes que nos unen y son compartidos. Regalar un sueño para recibir un sueño como una acción poética.

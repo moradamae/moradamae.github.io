@@ -23,7 +23,10 @@ const INFO_MAES = [
     <br>
     - Tercera ventana: Muestra el alfabeto Alienígena, obsérvelo unos minutos para familiarizarse con el. 
     <br>
-    - Prepárese para recibir el mensaje alien por medio de ondas telepáticas.`
+    - Prepárese para recibir el mensaje alien por medio de ondas telepáticas.
+    <br>
+    <a href="https://issuu.com/xiomarazapata20/docs/dla_decodificador_de_lenguaje_alienigena">Pdf</a>
+    `
   },
   {
     right: true,

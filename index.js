@@ -385,7 +385,7 @@ instalativas de objetos de pequeño formato.
     id: 12,
     nombre: 'GUILLERMO MIOTTI',
     imagen: '',
-    video: 'https://www.youtube.com/embed/3biJmFqrRBA',
+    video: 'https://youtu.be/iDCHhJv8yts',
     titulo: 'Jauleria',
     texto: `
     Para el proyecto investigué el concepto de laberinto como espacio. Espacio de claustrofobia, de prisión, de descubrimiento y de aprendizaje. Me pregunté sobre el sentimiento que experimenta el individuo ante el desafío del laberinto. ¿Prisionero o un explorador? ¿Ambas? El prisionero explora, busca la manera de escapar de su encierro. El explorador es prisionero de su propia curiosidad por saber que se esconde en cada rincón. Las dos posturas se enfrentan, pero también se complementan y dialogan entre sí.
